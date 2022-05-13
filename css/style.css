@@ -1,0 +1,95 @@
+.vasco{
+width: 100%;
+height: 275px;
+}
+
+#index{
+border: 3px solid red;
+background-color: black;
+color: white;
+text-align: center;
+
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover{
+background-color: red;
+color: black;
+font-style: italic;
+}
+
+.link:active{
+    background-color: red;
+    color: yellow;
+    font-style: italic; 
+}
+
+#lettera::first-letter{
+color: red;
+font-size: 70px
+}
+
+#riquadro{
+border: 3px solid red;
+text-align: center;
+margin-top: 30px;
+margin-left: 25%;
+margin-right: 25%;
+}
+
+#tabella{
+margin-top: 20px;
+border: dashed 1px;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+margin-left: auto;
+margin-right: auto; 
+}
+
+#headingt{
+background-color: red;
+}
+
+.righe:hover{
+background-color: turquoise;
+}
+
+#tabella2{
+margin-top: 20px;
+border: solid 1px;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+margin-left: auto;
+margin-right: auto; 
+}
+
+#headingt2{
+background-color: greenyellow;
+}
+
+.righe2{
+background-color: yellow;
+}
+
+.immagini{
+width: 250px;
+height: 250px;
+opacity: 0.3;
+margin-right: 20px;
+}
+
+#allineamentoimm{
+text-align: center;
+padding-top: 50px;
+}
+
+.immagini:hover{
+opacity: 1;
+border: solid yellow 3px;
+}
